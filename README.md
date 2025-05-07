@@ -1,2 +1,0 @@
-# nextDash
-Next Tutorial Project
